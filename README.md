@@ -1,6 +1,5 @@
 ### Halef Coban
-#### Data Scientist | Machine Learning Engineer | NLP Enthusiast
-
+#### Data Scientist | Machine Learning Engineer | LLM Engineer
 👋 Hello there! I'm Halef Coban, a passionate data scientist and machine learning engineer with a keen interest in solving complex problems using AI technologies.
 
 🔍 **Areas of Interest:** Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, Natural Language Processing (NLP), and Large Language Models (LLM).
