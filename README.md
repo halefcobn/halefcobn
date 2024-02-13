@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @halefcobn
-- 👀 I’m interested in data analysis, deep learning, machine learning, Artificial Intelligence, NLP and LLM.
-- 🌱 I’m currently learning Deep Learning, LLM Models, Statistics, and Probability, with Python, Java, Excel, R and SQL.
-- 💞️ I’m looking to collaborate on any analysis of problems and finding solutions to significant problems in business.
-- 📫 You can reach me via mail or Github.
-- halefcoban@outlook.com
+### Halef Coban
+#### Data Scientist | Machine Learning Engineer | NLP Enthusiast
 
-<!---
-halefcobn/halefcobn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello there! I'm Halef Coban, a passionate data scientist and machine learning engineer with a keen interest in solving complex problems using AI technologies.
+
+🔍 **Areas of Interest:** Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, Natural Language Processing (NLP), and Large Language Models (LLM).
+
+🌱 **Currently Learning:** Deep Learning architectures, LLM Models, Statistics, Probability, and enhancing my skills in Python, Java, Excel, R, and SQL.
+
+💼 **Open to Collaborate:** I'm eager to collaborate on projects aimed at tackling significant business challenges through data-driven insights and innovative solutions.
+
+📫 **Get in Touch:**
+- 📧 Email: [halefcoban@outlook.com](mailto:halefcoban@outlook.com)
+- 🌐 GitHub: [github.com/halefcoban](https://github.com/halefcoban)
+
+Let's connect, explore new opportunities, and make a meaningful impact through data! 🚀
