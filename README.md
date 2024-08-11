@@ -11,5 +11,7 @@
 📫 **Get in Touch:**
 - 📧 Email: [halefcoban@outlook.com](mailto:halefcoban@outlook.com)
 - 🌐 GitHub: [github.com/halefcoban](https://github.com/halefcoban)
+- 👉🏼 LinkedIn: https://www.linkedin.com/in/halefcoban/
+
 
 Let's connect, explore new opportunities, and make a meaningful impact through data! 🚀
